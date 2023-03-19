@@ -1,4 +1,4 @@
-Project Name: [Criminal Recidivation Prediction](https://github.com/AlaiaCCY/CriminalPrediction)
+Project Name: [Criminal Recidivation Prediction](https://github.com/AlaiaCCY/ORIE5741_CriminalProject)
 
 Project type: Data analysis project
 
